@@ -1,4 +1,4 @@
-Vendor Repo for the Archos 50 Cobalt (persimmon)
+Vendor Repo for the Doogee Y100 Pro (persimmon)
 =======================================
 
 Contains blobs (binaries) specific for persimmon.
